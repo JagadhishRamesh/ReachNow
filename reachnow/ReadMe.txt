@@ -14,7 +14,7 @@ How to run the ReachNow Project
 
 7.Run the script http://localhost/reachnow/login.php (frontend)
 
-Login Details
+Login Details:
 Login Details for admin : Admin username/Password : admin/admin
 Login Details for ReachNow user: UserID/Password: John/John
 
